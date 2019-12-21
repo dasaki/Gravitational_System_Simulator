@@ -1,4 +1,4 @@
-# Gravitational_System_Simulator
+# Gravitational System Simulator
 A Processing sketch that simulates a 3D planetary system
 
 https://youtu.be/K-CjHf8shWE
